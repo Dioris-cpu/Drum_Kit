@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "/Users/Catboy/training/bootCampUdemy/drumset"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#A6C62C",
+			"titleBar.activeBackground": "#B2D338",
+			"titleBar.activeForeground": "#171B06"
+		}
+	}
+}
